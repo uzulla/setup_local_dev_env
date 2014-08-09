@@ -10,7 +10,7 @@
 
 ## Mac
 
-[MacにChromeとXAMPPとCotEditorをインストール]
+[MacにChromeとXAMPPとCotEditorをインストール](mac/README.md)
 
 OSX 10.9 Mavericksで確認しています。
 
