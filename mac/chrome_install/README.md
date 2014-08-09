@@ -1,4 +1,4 @@
-# CotEditorのインストール
+# Google Chromeのインストール
 
 OSはMavericksです。
 
