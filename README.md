@@ -22,6 +22,11 @@
 
 OSX 10.9 Mavericksで確認しています。
 
+## Windows
+
+### [WindowsにChromeとXAMPPとSakuraEditorをインストール](win/README.md)
+
+Windows 8.1で確認しています。
 
 
 
